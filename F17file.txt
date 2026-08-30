@@ -1,1 +1,3 @@
-Rocket Raccoon is a genetically engineered, wisecracking raccoon from Marvel Comics, known for his sharp tongue, weapons expertise, and fierce loyalty hidden beneath a rough exterior.
+Rocket Raccoon is a genetically engineered,
+ wisecracking raccoon from Marvel Comics,
+  known for his sharp tongue, weapons expertise, and fierce loyalty hidden beneath a rough exterior.
